@@ -1,0 +1,26 @@
+07A Divide-and-Conquer Solver for Kernel Support Vector Machines.txt
+07A Kernel Independence Test for Random Processes.txt
+07A low variance consistent test of relative dependency.txt
+07A Unifying Framework of Anytime Sparse Gaussian Process Regression Models with Stochastic Variational Inference for Big Data.txt
+07A Unifying View of Representer Theorems.txt
+07Controversy in mechanistic modelling with Gaussian processes.txt
+07Distributed Gaussian Processes.txt
+07Double Nystrm Method  An Efficient and Accurate Nystrm Scheme for Large-Scale Data Sets.txt
+07Efficient Approximation of Cross-Validation for Kernel Methods using Bouligand Influence Function.txt
+07Enabling scalable stochastic gradient-based inference for Gaussian processes by employing the Unbiased LInear System SolvEr  ULISSE.txt
+07Fast Kronecker Inference in Gaussian Processes with non-Gaussian Likelihoods.txt
+07Finding Galaxies in the Shadows of Quasars with Gaussian Processes.txt
+07Improving the Gaussian Process Sparse Spectrum Approximation by Representing Uncertainty in Frequency Inputs.txt
+07Kernel Interpolation for Scalable Structured Gaussian Processes  KISS-GP.txt
+07Kernel Mean Estimation and Stein Effect.txt
+07Latent Gaussian Processes for Distribution Estimation of Multivariate Categorical Data.txt
+07Maximum Mean Discrepancy for Class Ratio Estimation.txt
+07Memory Efficient Kernel Approximation.txt
+07Nonparametric Estimation of Multi-View Latent Variable Models.txt
+07On p-norm Path Following in Multiple Kernel Learning for Non-linear Feature Selection.txt
+07Quasi-Monte Carlo Feature Maps for Shift-Invariant Kernels.txt
+07Robust and Efficient Kernel Hyperparameter Paths with Guarantees.txt
+07Scalable Nonparametric Bayesian Inference on Point Processes with Gaussian Processes.txt
+07Sparse Variational Inference for Generalized GP Models.txt
+07The Kendall and Mallows Kernels for Permutations.txt
+07Variational Inference for Gaussian Process Modulated Poisson Processes.txt
